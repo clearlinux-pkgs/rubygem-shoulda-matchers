@@ -1,0 +1,17 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-activesupport
+rubygem-appraisal
+rubygem-aruba
+rubygem-bundler
+rubygem-devise
+rubygem-diff-lcs
+rubygem-rake
+rubygem-rdoc
+rubygem-rspec
+rubygem-rspec-core
+rubygem-rspec-expectations
+rubygem-rspec-mocks
+rubygem-rspec-support
+rubygem-rubygems-tasks
