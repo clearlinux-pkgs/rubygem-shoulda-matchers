@@ -4,7 +4,7 @@
 #
 Name     : rubygem-shoulda-matchers
 Version  : 2.8.0
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/shoulda-matchers-2.8.0.gem
 Source0  : https://rubygems.org/downloads/shoulda-matchers-2.8.0.gem
 Summary  : No detailed summary available
