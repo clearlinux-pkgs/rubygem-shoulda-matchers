@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2015-11-27 22:32:26.843625
-# {'<3.0', '>=1.4.1'}
-https://rubygems.org/gems/shoulda-matchers/versions/([0-2]\.[0-9]{1,2}(\.[0-9]{1,2})?)
+# 2015-11-30 19:40:23.842962
+# {'>=1.4.1', '<3.0'}
+watchurl=https://rubygems.org/gems/shoulda-matchers/versions/([0-2]\.[0-9]{1,2}(\.[0-9]{1,2})?)
